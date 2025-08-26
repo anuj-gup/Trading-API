@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test coverage & output
+coverage/
+*.lcov
+
+# IDE project files
+.vscode/
+.idea/
+
+# Build artifacts (if any)
+dist/
+build/
+
+# Misc
+*.swp
