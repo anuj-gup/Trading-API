@@ -30,8 +30,3 @@
 
 ## Run Tests
 npm test
-
-
-## With Docker
-- docker build -t trading-service-node .
-- docker run -p 8080:8080 trading-service-node
